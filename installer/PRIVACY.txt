@@ -1,10 +1,9 @@
 PENNY PRIVACY NOTICE
-Version 1.2.1 · 2026-10-18
+Version 1.2.2 · 2026-10-27
 
 Who is responsible. Akrot Software publishes Penny. Your financial data never reaches Akrot Software: it is created and kept on your own device, so you control it. Akrot Software acts as the data controller only for what you choose to send us, for example a support email.
-  Discord: https://discord.gg/r5kNGC6p29
-  Support: https://github.com/abdallhhelles/penny/issues
-  Website: https://github.com/abdallhhelles/penny
+  Email: support@akrot.app
+  Website: https://penny.akrot.app
 
 What Penny stores, and where. Everything is on your PC, in %APPDATA%\Penny:
   - penny-data.json: your accounts, transactions, budgets, goals, rules, reminders and settings;
@@ -17,6 +16,8 @@ Encryption. On Windows, the data file and every backup are encrypted with AES-25
 What is sent over the network. Nothing about you or your money. Penny has no accounts, analytics, advertising, crash reporting or cloud sync, and never asks for bank credentials.
   - Update check: Penny downloads a small version file from GitHub Releases (github.com, run by GitHub, Inc.) about every six hours, and a newer signed bundle when one exists. GitHub can see your IP address and the request, as any web server can; no data about you or your money is sent. You can switch automatic checks off in Settings > Updates & help.
   - Setup downloads the open-source Electron runtime once from its public host. That request comes from your PC and carries no Penny data.
+  - Exchange rates, only when you tap Update in Settings > Language & money: the European Central Bank reference rates (via frankfurter.dev) and, for other currencies, ExchangeRate-API (open.er-api.com). Only currency codes are sent.
+  - Shop logos, only if you turn them on (off by default): the website of a well-known brand, such as starbucks.com, goes to Google's icon service to fetch its logo. Google can see your IP address. Amounts, payees and notes are never sent.
   - Files you import or export are read and written only where you point them.
 
 Why we handle it (legal basis). Because nothing is collected, there is nothing to rely on for the app itself. For support messages, we process what you send in order to answer you (legitimate interests / performing our agreement with you).
@@ -33,4 +34,4 @@ Children. Penny is a general-audience tool and is not directed at children.
 
 Changes. If this notice changes materially, the new version ships with the update and the version number above changes.
 
-Contact. Discord: https://discord.gg/r5kNGC6p29; Support: https://github.com/abdallhhelles/penny/issues; Website: https://github.com/abdallhhelles/penny
+Contact. Email: support@akrot.app; Website: https://penny.akrot.app

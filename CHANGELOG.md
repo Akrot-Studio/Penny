@@ -1,6 +1,6 @@
 # Changelog
 
-Full notes for each version are in [docs/releases](docs/releases/) and on [GitHub Releases](https://github.com/abdallhhelles/penny/releases).
+Full notes for each version are in [docs/releases](docs/releases/) and on [GitHub Releases](https://github.com/Akrot-Studio/Penny/releases).
 
 Version numbers restarted at **1.0.0** for the first public beta. Everything before it (1.7 to 1.11) was early access.
 

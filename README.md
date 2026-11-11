@@ -2,7 +2,7 @@
 
 <h1 align="center">Penny</h1>
 <p align="center"><b>Every cent, in focus.</b> A private budget app for Windows — encrypted, offline, in your language.</p>
-<p align="center"><a href="https://github.com/abdallhhelles/Penny/releases/latest">Download</a> · <a href="https://abdallhhelles.github.io/Penny/">Website</a> · <a href="CHANGELOG.md">What's new</a> · <a href="https://discord.gg/r5kNGC6p29">Discord</a></p>
+<p align="center"><a href="https://github.com/Akrot-Studio/Penny/releases/latest">Download</a> · <a href="https://penny.akrot.app">Website</a> · <a href="CHANGELOG.md">What's new</a> · <a href="https://discord.gg/SXYkvcmX3k">Discord</a></p>
 
 <p align="center"><img src="brand/screenshot-overview.png" width="820" alt="Penny's overview: net worth, money rings, budgets and what's coming up"></p>
 
@@ -10,7 +10,7 @@
 
 ## Get Penny
 - **Microsoft Store:** [Penny – Budget & Money Tracker](https://apps.microsoft.com/detail/9NZJGZ0X9VDT) (updates through the Store)
-- **Direct download:** the installer on the [Releases](https://github.com/abdallhhelles/Penny/releases) page. Penny then keeps itself up to date: it checks this page, verifies each update's signature, and asks you to restart.
+- **Direct download:** the installer on the [Releases](https://github.com/Akrot-Studio/Penny/releases) page. Penny then keeps itself up to date: it checks this page, verifies each update's signature, and asks you to restart.
 
 Windows 10 or 11, x64. Free during the beta.
 
@@ -22,8 +22,8 @@ Windows 10 or 11, x64. Free during the beta.
 - **For everyone.** English, Chinese (Simplified), Hindi, Spanish and Arabic, including natural-language entry; any currency, local number and date formats.
 
 ## Help and feedback
-- Questions, ideas and news: [the Penny Discord](https://discord.gg/r5kNGC6p29)
-- Bugs and requests: [Issues](https://github.com/abdallhhelles/Penny/issues)
+- Questions, ideas and news: [the Penny Discord](https://discord.gg/SXYkvcmX3k)
+- Bugs and requests: [Issues](https://github.com/Akrot-Studio/Penny/issues)
 - Security problems: see [SECURITY.md](docs/SECURITY.md#reporting-a-vulnerability)
 
 ## About this repository
